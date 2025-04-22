@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Phuong Doanh Ha!, also call me Alice 
+### 👋 Hi, I’m Phuong Doanh Ha (Alice)!
 
 I'm a final-year Computer Science student majoring in **Data Science** at Swinburne University. I love exploring the stories hidden in data and turning them into meaningful insights and visualizations.
 ---
